@@ -3,6 +3,36 @@
         a. Screen design should be as shown below
         
         ![image](https://github.com/Rupesh-11/POC__iOS/assets/59641297/e0de0524-0594-4a5d-99b7-336c0cd5f8b0)
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
 
         b. Validations should be applied to each field. (Email should take email input, password should be 8 characters long).
         c. Error should be shown if user does not input any field or enters invalid data.
@@ -22,6 +52,44 @@
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AC.svg"
     }
     ![image](https://github.com/Rupesh-11/POC__iOS/assets/59641297/dafec8ab-1d2d-43c7-b40c-68489a337aa0)
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
 
     3. Details screen.
         a. On click of country list item show country details in details screen.
