@@ -40,6 +40,8 @@
     d. After registration save all values in local database.
     e. On Login user inputs should be present in database. If user inputs are not present in database then user should not be able to login.
     f. Show error if user is unable to login.
+    
+    
  2. Country list screen
        a. Once user logs into the app show all country list with flag icon in list view.
        b. Use the following URL to get list of all countries along with flag.
